@@ -9,6 +9,8 @@ redirect_from:
 
 I'm a 4th year PhD student at the Department of Mathematics, University of Toronto. I work on mathematical physics under the supervision of [Prof. Marco Gualtieri](https://www.math.toronto.edu/mgualt/). 
 
+You can find my CV here. 
+
 I have been working on developing discrete models of physical systems, similar to lattice field theory. In particular, I've been focused on physical systems which depend on a metric e.g. scalar field theory and Yang-Mills. 
 
 Here, you can see me giving a talk on a recent paper in my field: [Quantum Field Theory on Graphs](http://www.fields.utoronto.ca/talks/Combinatorial-QFT-Graphs).
