@@ -5,15 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.ca/citations?hl=en&user=g5CyVNcAAAAJ}}">my Google Scholar profile</a>.</div>
+<!---{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}--->
+
+You can also find my articles on [my Google Scholar profile](https://scholar.google.ca/citations?hl=en&user=g5CyVNcAAAAJ). 
 
 
 1. "Detector Tomography on IBM 5-qubit Quantum Computers and Mitigation of Imperfect Measurement", Y. Chen, M. Farahzad, S. Yoo, and T-C. Wei, Phys. Rev. A 100, 052315 (2019) also arXiv:1904.11935
