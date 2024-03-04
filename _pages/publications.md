@@ -24,4 +24,4 @@ Journal of Mathematics, Vol. 33, No. 1 (2021) 27-98](https://projecteuclid.org/j
 3. "The Checkered Smocked Space and its Tangent Cone", V. Antonetti, M. Farahzad, A. Yamin,
 [arXiv:1912.06294](https://arxiv.org/abs/1912.06294)
 4. "SWIF Convergence of Smocked Metric Spaces", M. Dinowitz, H. Drillick, M. Farahzad, C. Sormani,
-A. Yamin, (accepted in the Journal of Topology and Analysis), [arXiv:2105.00138v1](https://arxiv.org/abs/2105.00138)https://arxiv.org/abs/2105.00138
+A. Yamin, (accepted in the Journal of Topology and Analysis), [arXiv:2105.00138v1](https://arxiv.org/abs/2105.00138)
