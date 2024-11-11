@@ -21,7 +21,7 @@ repository               : "maziarf/maziarf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "my_photo_wp.jpeg"
   name             : "Maziar"
   pronouns         : # example: "he/him"  
   bio              : #"Short biography for the left-hand sidebar"
